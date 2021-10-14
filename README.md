@@ -1,6 +1,6 @@
-## Welcome To Hamel's Professional Page
+## Welcome To Ikram's Professional Page
 
-I'm a data scientist at GitHub specializing in Machine Learning infrastructure and developer tools.  I have previously held ML roles at [Airbnb](https://www.airbnb.com/) and [DataRobot](https://www.datarobot.com/), as well as a long stint in management consulting.
+I'm a data scientist at GitHub specializing in Machine Learning model development and deployment.  I have previously held ML roles at [Lolatravel](https://www.lola.com/) as well as a long stint in management consulting.
 
 I have created many data-science flavored [integrations with GitHub products](https://github.blog/author/hamelsmu/). Furthermore, I am currently a core developer for [fastai](https://github.com/fastai).  
 
@@ -72,4 +72,4 @@ Links to associated github repos (and live demos if available) are located in bl
 
 ---
 
-_[Edit on GitHub](https://github.com/hamelsmu/hamel)_
+_[Edit on GitHub](https://github.com/akkefa/ikram)_
