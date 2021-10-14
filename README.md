@@ -1,10 +1,10 @@
 ## Welcome To Ikram's Professional Page
 
-I'm a data scientist at GitHub specializing in Machine Learning model development and deployment.  I have previously held ML roles at [Lolatravel](https://www.lola.com/) as well as a long stint in management consulting.
+I'm a data scientist at Kayak specializing in Machine Learning model development and deployment.  I have previously held ML roles at [Lolatravel](https://www.lola.com/) as well as a long stint in management consulting.
 
-I have created many data-science flavored [integrations with GitHub products](https://github.blog/author/hamelsmu/). Furthermore, I am currently a core developer for [fastai](https://github.com/fastai).  
+Furthermore, I am currently a open source developer at [deepset.ai/haystack](https://deepset.ai/haystack).  
 
-In the recent past, I have contributed to data infrastructure/tools such as [Kubeflow](https://github.com/kubeflow/code-intelligence), [Jupyter](https://github.com/jupyterhub/repo2docker-action), and [Great Expectations](https://github.com/great-expectations/great_expectations_action).
+In the recent past, I have contributed to data infrastructure/tools such as [Kubeflow](https://github.com/kubeflow/code-intelligence).
 
 ### Open-Source Projects
 
