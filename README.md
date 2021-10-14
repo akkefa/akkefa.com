@@ -1,10 +1,8 @@
-## Welcome To Ikram's Professional Page
+## Welcome to Ikram's Professional Page
 
 I'm a data scientist at Kayak specializing in Machine Learning model development and deployment.  I have previously held ML roles at [Lolatravel](https://www.lola.com/) as well as a long stint in management consulting.
 
-Furthermore, I am currently a open source developer at [deepset.ai/haystack](https://deepset.ai/haystack).  
-
-In the recent past, I have contributed to data infrastructure/tools such as [Kubeflow](https://github.com/kubeflow/code-intelligence).
+Furthermore, I am currently an open source developer at [deepset.ai/haystack](https://deepset.ai/haystack). In the recent past, I have contributed to data infrastructure/tools such as [Kubeflow](https://github.com/kubeflow/code-intelligence).
 
 ### Open-Source Projects
 
