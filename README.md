@@ -8,16 +8,11 @@ In the recent past, I have contributed to data infrastructure/tools such as [Kub
 
 ### Open-Source Projects
 
-- I maintain and contribute to a variety of [fastai](https://github.com/fastai) projects.   Recently, I've been involved with the following projects: [nbdev](https://github.com/fastai/nbdev), [fastcore](https://github.com/fastai/fastcore), [fastpages](https://github.com/fastai/fastpages), [ghapi](https://github.com/fastai/ghapi)
+- [Haystack](https://github.com/deepset-ai/haystack) (**Contributor**): Haystack is an end-to-end framework that enables you to build powerful and production-ready pipelines for different search use cases.
+
+- [Urduhack](https://github.com/urduhack/urduhack) (**Creator**): Urduhack is a NLP library for urdu language. It comes with a lot of battery included features to help you process Urdu data in the easiest way possible.
 
 - [Machine Learning Ops](https://mlops-github.com/), A collection of resources on how to facilitate Machine Learning Ops with GitHub.
-
-- Creator of [fastpages](https://github.com/fastai/fastpages), an easy to use blogging platform for Jupyter Notebooks.
-
-- [CodeSearchNet](https://github.com/github/CodeSearchNet), Datasets, tools, and benchmarks for representation learning of code.  This was a follow up project to [Semantic Code Search](https://github.com/hamelsmu/code_search).
-
-- [Issue Label Bot](https://github.com/machine-learning-apps/Issue-Label-Bot), A GitHub App powered by machine learning.
-
 
 ### Blog Articles / Papers
 Links to associated github repos (and live demos if available) are located in blog articles.
