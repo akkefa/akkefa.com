@@ -1,9 +1,12 @@
 ## Ikram Ali's profile
 
-I'm a data scientist at Kayak specializing in Machine Learning model development and deployment. My main research interests are in NLP and Computer Vision.
-I have previously held ML roles at [Lolatravel](https://www.lola.com/) as well as a long stint in management consulting.
+Data scientist at Kayak specializing in Machine Learning model development and deployment. My main research interests
+are in Natural Language Processing and Computer Vision. In addition to my previous ML roles at LolaTravel, I was also
+a Machine learning consultant for many years.
 
-Furthermore, I am currently an open source developer at [deepset.ai/haystack](https://deepset.ai/haystack). In the recent past, I have contributed to data infrastructure/tools such as [Kubeflow](https://github.com/kubeflow/code-intelligence).
+Further, I am an open source contributor at deepset.ai/haystack. Recently, I have contributed to data
+infrastructure/tools such as Kubeflow.
+
 
 ### Open-Source Projects
 
