@@ -1,6 +1,6 @@
 ## Ikram Ali's profile
 
-Data scientist at Kayak specializing in Machine Learning model development and deployment. My main research interests
+Machine learning Engineer at Kayak specializing in Machine Learning model development and deployment. My main research interests
 are in Natural Language Processing and Computer Vision. In addition to my previous ML roles at LolaTravel, I was also
 a Machine learning consultant for many years.
 
