@@ -1,4 +1,4 @@
-## Welcome to Ikram Ali Profile
+## Ikram Ali's profile
 
 I'm a data scientist at Kayak specializing in Machine Learning model development and deployment. My main research interests are in NLP and Computer Vision.
 I have previously held ML roles at [Lolatravel](https://www.lola.com/) as well as a long stint in management consulting.
