@@ -15,4 +15,5 @@ Furthermore, I am currently an open source developer at [deepset.ai/haystack](ht
 
 ### Certifications & Specialization
 
-- [coursera.org](https://www.coursera.org/account/accomplishments/specialization/certificate/KR56PWKASG88): Natural Language Processing - a DeepLearning.AI Specialization
+- [ Natural Language Processing - a DeepLearning.ai Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/KR56PWKASG88)
+- [ Deep learning - a DeepLearning.ai Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/7TRBVG7U5M3A)
