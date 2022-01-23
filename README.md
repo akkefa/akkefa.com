@@ -11,9 +11,7 @@ infrastructure/tools such as Kubeflow.
 ### Open-Source Projects
 
 - [Haystack](https://github.com/deepset-ai/haystack) (**Contributor**): Haystack is an end-to-end framework that enables you to build powerful and production-ready pipelines for different search use cases.
-
 - [Urduhack](https://github.com/urduhack/urduhack) (**Creator**): Urduhack is a NLP library for urdu language. It comes with a lot of battery included features to help you process Urdu data in the easiest way possible.
-
 - [Machine Learning Ops](https://mlops-github.com/)(**Contributor**): A collection of resources on how to facilitate Machine Learning Ops with GitHub.
 
 ### Certifications & Specialization
