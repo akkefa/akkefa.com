@@ -13,7 +13,6 @@ Furthermore, I am currently an open source developer at [deepset.ai/haystack](ht
 
 - [Machine Learning Ops](https://mlops-github.com/)(**Contributor**): A collection of resources on how to facilitate Machine Learning Ops with GitHub.
 
+### Certifications & Specialization
 
----
-
-_[Edit on GitHub](https://github.com/akkefa/ikram)_
+- [coursera.org](https://www.coursera.org/account/accomplishments/specialization/certificate/KR56PWKASG88): Natural Language Processing - a DeepLearning.AI Specialization
