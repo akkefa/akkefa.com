@@ -1,8 +1,9 @@
 ## Ikram Ali's profile
 
-Machine learning Engineer at Kayak specializing in Machine Learning model development and deployment. My main research interests
-are in Natural Language Processing and Computer Vision. In addition to my previous ML roles at LolaTravel, I was also
-a Machine learning consultant for many years.
+Passionate machine learning engineer with 5+ years of experience in predictive modeling. A solid foundation in
+statistics, linear algebra, calculus, and other analytical techniques. Project manager and team leader with
+extensive experience in system design and implementation. My main research interests
+are in Natural Language Processing
 
 Further, I am an open source contributor at deepset.ai/haystack. Recently, I have contributed to data
 infrastructure/tools such as Kubeflow.
