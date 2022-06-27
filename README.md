@@ -8,7 +8,7 @@ I approach people management with the mindset of a mentor and career coach rathe
 
 I approach Data Science with an engineering mindset. I put an emphasis on experimentation and balance deeper research with iterative delivery.
 
-5+ years hands-on coding and model training experience for analytics, data science and machine learning including recommender systems 3+ year experience managing diverse teams of software engineers, machine learning engineers, and data scientists.
+5+ years hands-on coding and model training experience for analytics, data science and machine learning including recommender systems 5+ year experience managing diverse teams of software engineers, machine learning engineers, and data scientists.
 
 
 ### Open-Source Projects
