@@ -11,7 +11,7 @@ This allows me to lead cross-functional teams and know the pain points of bringi
 I approach people management with the mindset of a mentor and career coach rather than a boss.
 I get excited about building teams of great people, and I love seeing my team member's careers grow!
 
-### Experience 
+### 💼 Experience 
 
 #### KAYAK | Senior Machine Learning Engineer | 2017 - Present
 - Managing end-to-end data science workflow from data ingest and wrangling to analysis and presentation, including
