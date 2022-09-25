@@ -10,11 +10,11 @@ I approach Data Science with an engineering mindset. I put an emphasis on experi
 
 5+ years hands-on coding and model training experience for analytics, data science and machine learning including recommender systems 5+ year experience managing diverse teams of software engineers, machine learning engineers, and data scientists.
 
-
-### Open-Source Projects
-
-- [Haystack](https://github.com/deepset-ai/haystack) (**Contributor**): Haystack is an end-to-end framework that enables you to build powerful and production-ready pipelines for different search use cases.
+### 📦 Open Source Packages
 - [Urduhack](https://github.com/urduhack/urduhack) (**Creator**): Urduhack is a NLP library for urdu language. It comes with a lot of battery included features to help you process Urdu data in the easiest way possible.
+
+### 👍 Open-Source Contributions
+- [Haystack](https://github.com/deepset-ai/haystack) (**Contributor**): Haystack is an end-to-end framework that enables you to build powerful and production-ready pipelines for different search use cases.
 - [Machine Learning Ops](https://mlops-github.com/)(**Contributor**): A collection of resources on how to facilitate Machine Learning Ops with GitHub.
 
 ### Certifications & Specialization
