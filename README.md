@@ -34,7 +34,11 @@ I get excited about building teams of great people, and I love seeing my team me
 - [Haystack](https://github.com/deepset-ai/haystack) (**Contributor**): Haystack is an end-to-end framework that enables you to build powerful and production-ready pipelines for different search use cases.
 - [Machine Learning Ops](https://mlops-github.com/)(**Contributor**): A collection of resources on how to facilitate Machine Learning Ops with GitHub.
 
+
+### 🎓 Degree
+- [Masters in Data Science](https://www.colorado.edu/) from University of Colorado Boulder
 ### Certifications & Specialization
 
-- [ Natural Language Processing - a DeepLearning.ai Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/KR56PWKASG88)
-- [ Deep learning - a DeepLearning.ai Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/7TRBVG7U5M3A)
+- [Natural Language Processing - a DeepLearning.ai Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/KR56PWKASG88)
+- [Deep learning - a DeepLearning.ai Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/7TRBVG7U5M3A)
+- [Data Science Foundations: Statistical Inference Specialization](https://www.coursera.org/account/accomplishments/specialization/BRN2DR89PHH2)
