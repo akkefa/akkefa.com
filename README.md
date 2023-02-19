@@ -1,14 +1,14 @@
-## Hi there 👋 I’m Ikram
+## 👋 I’m Ikram
 
-My name is Ikram Ali and I'm a Lead Data Scientist. I specialize in building ML engineering and data science teams from the ground up. My current passion is NLP and MLOps.
+My name is Ikram Ali and I'm a **Lead Data Scientist**. I specialize in building ML engineering and data science teams from the ground up. My current passion is **NLP** and MLOps.
 
-I approach my career by purposefully building domain knowledge in all the cross functional disciplines required to
+I approach my career by purposefully building domain knowledge in all the cross-functional disciplines required to
 deliver successful Data Science projects. This includes Research, Data Engineering, Machine Learning Engineering,
 Management, as well as dabbling in Agile Program Management and Product Management within other roles.
 This allows me to lead cross-functional teams and know the pain points of bringing a model from ideation to production.
 
 I approach people management with the mindset of a mentor and career coach rather than a boss.
-I get excited about building teams of great people, and I love seeing my team member's careers grow!
+I get excited about building teams of talented people, and I love seeing my team member's careers grow!
 
 ### 💼 Experience 
 
@@ -36,8 +36,10 @@ I get excited about building teams of great people, and I love seeing my team me
 
 
 ### 🎓 Degree
-- [Masters in Data Science](https://www.colorado.edu/) from University of Colorado Boulder
-### Certifications & Specialization
+
+- [Masters in Data Science](https://www.colorado.edu) University of Colorado Boulder
+  
+### 📜 Certifications & Specializations
 
 - [Natural Language Processing - a DeepLearning.ai Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/KR56PWKASG88)
 - [Deep learning - a DeepLearning.ai Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/7TRBVG7U5M3A)
