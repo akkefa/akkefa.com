@@ -1,7 +1,6 @@
-## Ikram Ali's Profile
+## Hi there 👋 I’m Ikram
 
-My name is Ikram Ali and I'm a Data Scientist. I specialize in building ML engineering and data science teams from the
-ground up. My current passion is NLP and MLOps.
+My name is Ikram Ali and I'm a Lead Data Scientist. I specialize in building ML engineering and data science teams from the ground up. My current passion is NLP and MLOps.
 
 I approach my career by purposefully building domain knowledge in all the cross functional disciplines required to
 deliver successful Data Science projects. This includes Research, Data Engineering, Machine Learning Engineering,
