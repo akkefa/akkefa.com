@@ -15,9 +15,9 @@ I get excited about building teams of talented people, and I love seeing my team
 ### KAYAK | Lead Data Scientist | 2017 - Present
 - Managing end-to-end data science workflow from data ingest and wrangling to analysis and presentation, including
   writing code, performing code and deliverable review, and people and project management.
-- Developing automated orchestration pipelines for data mining, training, and validation for deep-learning/machine-learning features using MLflow.
+- Developing automated orchestration pipelines for data mining, training, and validation for deep-learning/machine-learning features using **MLflow** & **wandb.ai**.
 - Match hotel images with millions of hotel reviews to increase visibility on search engine results pages and ensure a better user experience using CLIP, BLIP deep learning models.
-- Developed NLP models to extract entities from trip emails using deep learning.
+- Developed NLP models to extract entities from trip emails using NER Models using deep learning.
 - Fine-tune a pretrained Bert model to improve the accuracy of translations.
 - Uses Pytorch for developing CNN, RNN, BI-LSTM and NER detection models.
 - Bert, Word2vec, fast-text, and Glove are used to create word embeddings.
