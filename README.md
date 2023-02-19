@@ -1,6 +1,6 @@
 # Ikram Ali | Lead Data Scientist | NLP
 
-My name is Ikram Ali and I'm a **Lead Data Scientist**. I specialize in building ML engineering and data science teams from the ground up. My current passion is **NLP** and MLOps.
+My name is Ikram Ali and I'm a **Lead Data Scientist**. I specialize in building ML engineering and data science teams from the ground up.\ My current passion is **NLP** and MLOps.
 
 I approach my career by purposefully building domain knowledge in all the cross-functional disciplines required to
 deliver successful Data Science projects. This includes Research, Data Engineering, Machine Learning Engineering,
@@ -12,7 +12,7 @@ I get excited about building teams of talented people, and I love seeing my team
 
 ## 💼 Experience 
 
-### KAYAK | Senior Machine Learning Engineer | 2017 - Present
+### KAYAK | Lead Data Scientist | 2017 - Present
 - Managing end-to-end data science workflow from data ingest and wrangling to analysis and presentation, including
   writing code, performing code and deliverable review, and people and project management.
 - Developing automated orchestration pipelines for data mining, training, and validation for deep-learning/machine-learning features using MLflow.
@@ -25,7 +25,7 @@ I get excited about building teams of talented people, and I love seeing my team
 - Working with project managers to define use cases, collect data, and benchmark the results.
 
 
-5+ years hands-on coding and model training experience for analytics, data science and machine learning including recommender systems 5+ year experience managing diverse teams of software engineers, machine learning engineers, and data scientists.
+7+ years hands-on coding and model training experience for analytics, data science and machine learning including recommender systems 5+ year experience managing diverse teams of software engineers, machine learning engineers, and data scientists.
 
 ## 📦 Open Source Packages
 - [Urduhack](https://github.com/urduhack/urduhack) (**Creator**): Urduhack is a NLP library for urdu language. It comes with a lot of battery included features to help you process Urdu data in the easiest way possible.
