@@ -1,4 +1,4 @@
-# 👋 I’m Ikram
+# 👋 I’m Ikram Ali | Lead Data Scientist | NLP | MLOps
 
 My name is Ikram Ali and I'm a **Lead Data Scientist**. I specialize in building ML engineering and data science teams from the ground up. My current passion is **NLP** and MLOps.
 
