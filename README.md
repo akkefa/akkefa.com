@@ -27,9 +27,6 @@ I get excited about building teams of talented people, and I love seeing my team
 
 7+ years hands-on coding and model training experience for analytics, data science and machine learning including recommender systems 5+ year experience managing diverse teams of software engineers, machine learning engineers, and data scientists.
 
-## 📦 Open Source Packages
-
-
 ## 👍 Open-Source Contributions
 - [Urduhack](https://github.com/urduhack/urduhack) (**Creator**): Urduhack is a NLP library for urdu language. It comes with a lot of battery included features to help you process Urdu data in the easiest way possible. Link: urduhack.akkefa.com
 - [ML-Notes](https://ml-notes.akkefa.com/en/latest/) Collection of notes on Machine Learning. Link: ml-notes.akkefa.com
